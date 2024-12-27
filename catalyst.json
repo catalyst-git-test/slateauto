@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "targets": [
+      "testFunction"
+    ],
+    "ignore": [
+      ".output"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
